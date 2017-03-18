@@ -1,3 +1,5 @@
 Name: Rib Ribble
 Project Goal: Learn what I need to in Git to help me better understand Django
 Favorite TV Show: Impractical Jokers
+Favorite Quote: 
+“Worrying is like paying on a debt, you don’t owe”. Dr. Jeff Wickwire
